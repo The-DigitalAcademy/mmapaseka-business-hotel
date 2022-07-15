@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/mmapaseka-business-hotel/static/css/main.073c9b0a.css",
-    "main.js": "/mmapaseka-business-hotel/static/js/main.ddbbcc4f.js",
-    "static/js/787.1f2a834a.chunk.js": "/mmapaseka-business-hotel/static/js/787.1f2a834a.chunk.js",
-    "static/media/logo.svg": "/mmapaseka-business-hotel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/mmapaseka-business-hotel/static/css/main.abd64e84.css",
+    "main.js": "/mmapaseka-business-hotel/static/js/main.1a0cafe4.js",
     "index.html": "/mmapaseka-business-hotel/index.html",
-    "main.073c9b0a.css.map": "/mmapaseka-business-hotel/static/css/main.073c9b0a.css.map",
-    "main.ddbbcc4f.js.map": "/mmapaseka-business-hotel/static/js/main.ddbbcc4f.js.map",
-    "787.1f2a834a.chunk.js.map": "/mmapaseka-business-hotel/static/js/787.1f2a834a.chunk.js.map"
+    "main.abd64e84.css.map": "/mmapaseka-business-hotel/static/css/main.abd64e84.css.map",
+    "main.1a0cafe4.js.map": "/mmapaseka-business-hotel/static/js/main.1a0cafe4.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ddbbcc4f.js"
+    "static/css/main.abd64e84.css",
+    "static/js/main.1a0cafe4.js"
   ]
 }
